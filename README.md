@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Smart pill box application developed for a university project.
+> JAVA application for smart pillbox.
 
 ## Authors
 
