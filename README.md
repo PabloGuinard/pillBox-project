@@ -16,6 +16,10 @@
 * Github: [@louischarnay](https://github.com/louischarnay)
 * LinkedIn: [@louischarnay](https://linkedin.com/in/louischarnay)
 
+👤 **Pablo Guinard**
+
+👤 **Adrien Girand**
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
