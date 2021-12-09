@@ -8,7 +8,7 @@
 
 > Smart pill box application developed for a university project.
 
-## Author
+## Authors
 
 👤 **Louis Charnay**
 
