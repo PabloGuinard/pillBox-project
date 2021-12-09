@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"main"},{"l":"main.modele"},{"l":"main.vue"},{"l":"ss2_rpi_2021"}];updateSearchResults();
